@@ -1,5 +1,5 @@
 Modulus Operation with ArithmeticException Handling
-!image()
+!image(https://github.com/Hithashree028/Module-5/blob/b9afb1f21450dab7281cb0d534cdeab2cdff732f/Screenshot%202025-11-25%20152606.png)
 
 Dynamic Array Allocation with NegativeArraySizeException
 !image()
